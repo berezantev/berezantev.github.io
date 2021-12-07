@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FEMINISM IN THE MEDIA - FROM COVERAGE TO PRACTICE
+title: Feminism in the media - from coverage to practice
 subtitle: Sophie Du Couédic, Seif Ben Mustapha, Léonard Pasi and Mihaela Berezantev
 cover-img: assets/img/main_photo.jpg
 ---
