@@ -31,13 +31,16 @@ Below is a representation of the words present in the 20'052 quotes obtained. As
 </p>
 
 {: style="text-align: justify" }
-
 Let's have a look at the topics covered in these feminism related quotes.
 
-{:refdef: style="text-align: left;"}
-{% include topics.html %}
-{: refdef}
 
+<div >
+    <p style="max-width: 400px; height: auto; float:left; ">
+        {% include topics.html %}
+    </p>
+</div>
+
+    
 The above LDA model is built with 8 different topics where each topic is a combination of keywords and each keyword contributes a certain weightage to the topic. Each bubble on the left-hand side plot represents a topic. The larger the bubble, the more prevalent is that topic.
 
 Based on the salient keywords, we can guess a possible topic. Topics 1, 2, 3, 4, 7 are clustered in one quadrant and some of them overlap. On the other hand, 5,6 and 8 are situated in 2 different regions and there is no overlap.
@@ -49,9 +52,30 @@ Topics 5 and 6 are centered around the fear of people that are perceived as diff
 The last topic (8) revolves around the two politicians **Donald Trump** and **Hillary Clinton** and most probably the man's gender based attacks. The ex-president has been accused several times of **misogyny** and **sexism** in attacking Hillary Clinton because she is a woman. Therefore, the emergence of such a topic is not surprising.
 
 {: style="text-align: justify" }
-We will mainly focus on a subset of medias, namely the AllSides Media Bias Chart shown below. 
+In the subsequent analysis, we will mainly focus on a subset of medias based on the [AllSides Media Bias Chart](https://www.allsides.com/media-bias/media-bias-chart). 
+
+| Left          | Center Left        | Center       | Center Right         |Right            |
+|:---           |:---                |:---          |:---                  |:---             |
+| Alternet      | The New York Times | BBC          | The Epoch Times      | Breitbart       |
+| BuzzFeed      | ABC                | MarketWatch  | Newsmax              | The Blaze       |
+| CNN           | CBS                | The Hill     | Washington Examiner  | Fox News        |
+| The New Yorker| NBC                | Newsweek     | The Washington Times | The Federalist  |
+
+Having studied "the popularity" of feminism and its sub-topics, we now investigate gender equality "in practice". Let's have a look at what exposure is given to female VS male speakers in the selected medias.
 
 <p align="center">
-<img width="600" height="800" src="assets/img/AllSidesMediaBiasChart.jpeg">
+<img src="assets/img/ratio_male_female.png">
 </p>
+
+{: style="text-align: justify" }
+The plot above shows a significant difference between the male and female quotes exposure in all the chosen medias. In the majority of cases, about 80% of the quotes are male which highly contrasts with an approximate 20% of women quotes. The media that quotes women the most is *buzzfeed* (a left-wing media), but the male quotes are still predominant. *The Washington Times* (a right-wing media), on the other hand, chooses to put forward mostly male speakers.
+
+{: style="text-align: justify" }
+Generally, the left-wing is characterized by an emphasis on ideas such as freedom, equality, fraternity, rights, progress, reform and internationalism while the right-wing is characterized by an emphasis on notions such as authority, hierarchy, order, duty, tradition, reaction and nationalism. Therefore, it does not seem surprising that a left-wing media has the highest percentage of women quotes whilst a right-wing media has the lowest one. Nevertheless, we would have expected more left-wing medias to quote women as much as they quote men.
+
+What about the speakers from the feminism dataset?
+
+<img style="max-width: 400px; height: auto; float:left; padding: 10px; " src="assets/img/ratio_male_female_feminism.png"/> 
+
+The situation switches in the case of feminism related quotes: the predominant gender is female. We suppose that women are more concenrned about feminism and its sub-topics, so they are the ones who are vocal about the related issues.
 
