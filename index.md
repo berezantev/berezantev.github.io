@@ -40,15 +40,20 @@ Let's have a look at the topics covered in these feminism related quotes.
     </p>
 </div>
 
-    
+
+ {: style="text-align: justify" }   
 The above LDA model is built with 8 different topics where each topic is a combination of keywords and each keyword contributes a certain weightage to the topic. Each bubble on the left-hand side plot represents a topic. The larger the bubble, the more prevalent is that topic.
 
+{: style="text-align: justify" }
 Based on the salient keywords, we can guess a possible topic. Topics 1, 2, 3, 4, 7 are clustered in one quadrant and some of them overlap. On the other hand, 5,6 and 8 are situated in 2 different regions and there is no overlap.
 
+{: style="text-align: justify" }
 The topics in the upper right quadrant are centered around **feminism** which is the central theme of this analysis. Also, many quotes seem to mention personal opinions (**think**, **believe**) and wishes (**want**). Others touch upon **gender rights**  and **equality** between **men** and **women** and the **movements** these can generate (women **fighting** for their rights or against **misogyny**/**patriarchy**, etc.).
 
+{: style="text-align: justify" }
 Topics 5 and 6 are centered around the fear of people that are perceived as different and their discrimination (**racism**, **sexism**, **homophobia**, **misogyny**, **xenophobia**, **anti**, **hate**). Notice how America's ex-president's name is also mentioned in topic 5. This may allude to the fact that some of these quotes mention opinions on his behaviour and character. 
 
+{: style="text-align: justify" }
 The last topic (8) revolves around the two politicians **Donald Trump** and **Hillary Clinton** and most probably the man's gender based attacks. The ex-president has been accused several times of **misogyny** and **sexism** in attacking Hillary Clinton because she is a woman. Therefore, the emergence of such a topic is not surprising.
 
 {: style="text-align: justify" }
