@@ -61,6 +61,7 @@ In the subsequent analysis, we will mainly focus on a subset of medias based on 
 | CNN           | CBS                | The Hill     | Washington Examiner  | Fox News        |
 | The New Yorker| NBC                | Newsweek     | The Washington Times | The Federalist  |
 
+{: style="text-align: justify" }
 Having studied "the popularity" of feminism and its sub-topics, we now investigate gender equality "in practice". Let's have a look at what exposure is given to female VS male speakers in the selected medias.
 
 <p align="center">
@@ -77,5 +78,5 @@ What about the speakers from the feminism dataset?
 
 <img style="max-width: 400px; height: auto; float:left; padding: 10px; " src="assets/img/ratio_male_female_feminism.png"/> 
 
-The situation switches in the case of feminism related quotes: the predominant gender is female. We suppose that women are more concenrned about feminism and its sub-topics, so they are the ones who are vocal about the related issues.
+The situation switches in the case of feminism related quotes: the predominant gender is female. We suppose that women are more concenrned about feminism and its sub-topics, so they are the ones who are vocal about the related issues. As a consequence, medias cite them more often.
 
