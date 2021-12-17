@@ -118,7 +118,7 @@ The next question we will try to address is what opinion do public figures have 
 We see that the overall sentiment over feminist quotes is mainly positive. Comparing to the overall sentiment over our sampled quotes, we notice that the percentage of positive feminist quotes is higher than the one for the sampled quotes.
 
 {: style="text-align: justify" }
-Let's select the top 10 speakers, i.e. those that have the highest number of feminism-related quotes in our database and see how these speakers tend to talk about feminism. In the plot presented below, we notice that the speakers that use negative words the most are Donald Trump, Bernie Sanders and Piers Morgan. On the other hand, Hilary Clinton, Emily Ratajkowski, Emma Watson and Lena Dunham - icons of feminism - are the ones that tend to speak the most positively about feminism and its subtopics.
+Let's select the top 10 speakers, i.e. those that have the highest number of feminism-related quotes in our database and see how these speakers tend to talk about feminism. In the plot presented below, we notice that the speakers that use negative words the most are Donald Trump, Bernie Sanders and Piers Morgan. On the other hand, Hilary Clinton, Emily Ratajkowski, Emma Watson and Lena Dunham are the ones that tend to speak the most positively about feminism and its subtopics.
 
 <img style=" height: auto; float:center; " src="assets/img/sentiment_top_speakers.png"/> 
 
@@ -136,6 +136,13 @@ The plot above shows a significant difference between the male and female quotes
 
 {: style="text-align: justify" }
 Earlier we mentioned the difference in ideas that each wing emphasises, therefore, it does not seem surprising that a left-wing media has the highest percentage of women quotes whilst a right-wing media has the lowest one. Nevertheless, we would have expected more left-wing medias to quote women as much as they quote men.
+
+<p align="center">
+<img src="assets/img/number_mentions.png">
+</p>
+
+{: style="text-align: justify" }
+After obtaining the quotes that mention women ("she") and men ("he"), we have represented the respective percentages per media (see plot above). From the two previous plots, it can be clearly seen that not only these medias cite more men, but they also include more quotes that talk about men.
 
 What about the speakers from the feminism dataset?
 
