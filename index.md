@@ -66,7 +66,7 @@ Now that the medias of interest have been defined together with their political 
 </p>
 
 {: style="text-align: justify" }
-While we can't find a correlation between the political orientation and the exposure given to feminism from the plots above, it is interesting to see that *The Federalist* (right-wing) has the highest number of feminism-related quotes with respect to its total number of quotes for the years 2015, 2017 and 2018. Furthermore, *The Blaze* and *Washington Examiner* are also right-wing and center-right respectively. Generally, the left-wing is characterized by an emphasis on ideas such as freedom, equality, fraternity, rights, progress, reform and internationalism while the right-wing is characterized by an emphasis on notions such as authority, hierarchy, order, duty, tradition, reaction and nationalism. Accordingly, we doubt that *The Federalisz* actually has a feminist agenda. In fact, just talking about feminism doesn't mean talking about it in good terms. Also, a media outlet could be very well quoting feminist speakers, just to heavily criticize them and promote an opposite view.
+While we can't find a correlation between the political orientation and the exposure given to feminism from the plots above, it is interesting to see that *The Federalist* (right-wing) has the highest number of feminism-related quotes with respect to its total number of quotes for the years 2015, 2017 and 2018. Furthermore, *The Blaze* and *Washington Examiner* are also right-wing and center-right respectively. Generally, the left-wing is characterized by an emphasis on ideas such as freedom, equality, fraternity, rights, progress, reform and internationalism while the right-wing is characterized by an emphasis on notions such as authority, hierarchy, order, duty, tradition, reaction and nationalism. Accordingly, we doubt that *The Federalist* actually has a feminist agenda. In fact, just talking about feminism doesn't mean talking about it in good terms. Also, a media outlet could be very well quoting feminist speakers, just to heavily criticize them and promote an opposite view.
 
 {: style="text-align: justify" }
 Let's have a look at the topics covered in these feminism related quotes.
@@ -93,6 +93,23 @@ Topics 5 and 6 are centered around the fear of people that are perceived as diff
 {: style="text-align: justify" }
 The last topic (8) revolves around the two politicians **Donald Trump** and **Hillary Clinton** and most probably the man's gender based attacks. The ex-president has been accused several times of **misogyny** and **sexism** in attacking Hillary Clinton because she is a woman. Therefore, the emergence of such a topic is not surprising.
 
+The next question we will try to address is what opinion do public figures have on feminism. Also,  what opinion do specific medias tend to put forward?
+
+
+<img style="max-width: 350px; height: auto; float:right; " src="assets/img/sampled_sentiment.png"/> 
+<div class="row">
+  <div class="column">
+    <img src="assets/img/feminism_sentiment.png" style="max-width: 350px;">
+  </div>
+</div>
+
+{: style="text-align: justify" }
+We see that the overall sentiment over feminist quotes is mainly positive. Comparing to the overall sentiment over our sampled quotes, we notice that the percentage of positive feminist quotes is higher than the one for the sampled quotes.
+
+
+<img style=" height: auto; float:center; " src="assets/img/sentiment_top_speakers.png"/> 
+
+
 {: style="text-align: justify" }
 Having studied "the popularity" of feminism and its sub-topics, we now investigate gender equality "in practice". Let's have a look at what exposure is given to female VS male speakers in the selected medias.
 
@@ -111,4 +128,3 @@ What about the speakers from the feminism dataset?
 <img style="max-width: 400px; height: auto; float:left; padding: 10px; " src="assets/img/ratio_male_female_feminism.png"/> 
 
 The situation switches in the case of feminism related quotes: the predominant gender is female. We suppose that women are more concenrned about feminism and its sub-topics, so they are the ones who are vocal about the related issues. As a consequence, medias cite them more often.
-
