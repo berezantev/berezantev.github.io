@@ -7,9 +7,11 @@ cover-img: assets/img/main_photo.jpg
 
 <div class="wrapper">
     <div class="typing-demo">
-      "A nice quote about feminism in the media here"
+      "A woman without a man is like a fish without a bicycle" G. Steinem
     </div>
 </div>
+
+
 
 # Abstract and Objectives
 
