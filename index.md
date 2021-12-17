@@ -31,8 +31,28 @@ Below is a representation of the words present in the 20'052 quotes obtained. As
 </p>
 
 {: style="text-align: justify" }
-Let's have a look at the topics covered in these feminism related quotes.
+Now, first, let's see if we can gain insight on the coverage of feminism over time in the medias through the Quotebank dataset. Later on, we will compare between medias from different sides of the political spectrum.
 
+<p align="center">
+<img width="600" height="500" src="/assets/img/feminism_over_time.png">
+</p>
+
+{: style="text-align: justify" }
+We can see that the ratio of feminism-related quotes is highest for the years 2016, 2017 and 2018. What events could have caused an increase in the reactions of speakers over feminism at these periods? 
+
+{: style="text-align: justify" }
+- In 2016, Hillary Clinton Becomes The First Female Presidential Nominee. Clinton championed women's rights as the center of her campaign and Donald Trump was repeatedly accused for the misogynistic rhetoric and machismo. Also, in one of the most important campaign speeches of the 2016 presidential election, First Lady Michelle Obama addressed the dangerous rape culture present in the country. 
+- In 2017, 3.5-5.5 million of people worldwide attend the “women’s march” on the 21st of January in solidarity for women’s rights. It’s one of the numerous mass uprisings that mark the decade, including: in India, following the gang rape of a student; across Latin America after a succession of femicides; and in Nigeria, following the kidnapping of almost 280 school girls.
+- The #MeToo movement began at the end of 2017. It all began with survivors sharing their sexual harassement ans sexual assault stories, but escalated in a global movement that brought social and legal changes. 
+
+{: style="text-align: justify" }
+All these historic episodes might explain the presence of a higher number of feminism-related quotes as people were probably keen on expressing their opinion and medias quoted them as well as those who were part of these events. 
+
+{: style="text-align: justify" }
+To compare between medias with different political orientations, let us first define the medias of interest.
+
+{: style="text-align: justify" }
+Let's have a look at the topics covered in these feminism related quotes.
 
 <div >
     <p style="max-width: 400px; height: auto; float:left; ">
