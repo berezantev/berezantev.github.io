@@ -49,7 +49,24 @@ We can see that the ratio of feminism-related quotes is highest for the years 20
 All these historic episodes might explain the presence of a higher number of feminism-related quotes as people were probably keen on expressing their opinion and medias quoted them as well as those who were part of these events. 
 
 {: style="text-align: justify" }
-To compare between medias with different political orientations, let us first define the medias of interest.
+To compare between medias with different political orientations, let us first define the medias of interest. In the subsequent analysis, we will mainly focus on a subset of medias based on the [AllSides Media Bias Chart](https://www.allsides.com/media-bias/media-bias-chart). 
+
+| Left          | Center Left        | Center       | Center Right         |Right            |
+|:---           |:---                |:---          |:---                  |:---             |
+| Alternet      | The New York Times | BBC          | The Epoch Times      | Breitbart       |
+| BuzzFeed      | ABC                | MarketWatch  | Newsmax              | The Blaze       |
+| CNN           | CBS                | The Hill     | Washington Examiner  | Fox News        |
+| The New Yorker| NBC                | Newsweek     | The Washington Times | The Federalist  |
+
+{: style="text-align: justify" }
+Now that the medias of interest have been defined together with their political orientation, let's see how do they compare in terms of ratio of feminism-related quotes. Intuitively this should get an indication of the exposure that media outlets give to feminism.
+
+<p align="center">
+<img src="assets/img/comparing_exposure.png">
+</p>
+
+{: style="text-align: justify" }
+While we can't find a correlation between the political orientation and the exposure given to feminism from the plots above, it is interesting to see that *The Federalist* (right-wing) has the highest number of feminism-related quotes with respect to its total number of quotes for the years 2015, 2017 and 2018. Furthermore, *The Blaze* and *Washington Examiner* are also right-wing and center-right respectively. Generally, the left-wing is characterized by an emphasis on ideas such as freedom, equality, fraternity, rights, progress, reform and internationalism while the right-wing is characterized by an emphasis on notions such as authority, hierarchy, order, duty, tradition, reaction and nationalism. Accordingly, we doubt that *The Federalisz* actually has a feminist agenda. In fact, just talking about feminism doesn't mean talking about it in good terms. Also, a media outlet could be very well quoting feminist speakers, just to heavily criticize them and promote an opposite view.
 
 {: style="text-align: justify" }
 Let's have a look at the topics covered in these feminism related quotes.
@@ -77,16 +94,6 @@ Topics 5 and 6 are centered around the fear of people that are perceived as diff
 The last topic (8) revolves around the two politicians **Donald Trump** and **Hillary Clinton** and most probably the man's gender based attacks. The ex-president has been accused several times of **misogyny** and **sexism** in attacking Hillary Clinton because she is a woman. Therefore, the emergence of such a topic is not surprising.
 
 {: style="text-align: justify" }
-In the subsequent analysis, we will mainly focus on a subset of medias based on the [AllSides Media Bias Chart](https://www.allsides.com/media-bias/media-bias-chart). 
-
-| Left          | Center Left        | Center       | Center Right         |Right            |
-|:---           |:---                |:---          |:---                  |:---             |
-| Alternet      | The New York Times | BBC          | The Epoch Times      | Breitbart       |
-| BuzzFeed      | ABC                | MarketWatch  | Newsmax              | The Blaze       |
-| CNN           | CBS                | The Hill     | Washington Examiner  | Fox News        |
-| The New Yorker| NBC                | Newsweek     | The Washington Times | The Federalist  |
-
-{: style="text-align: justify" }
 Having studied "the popularity" of feminism and its sub-topics, we now investigate gender equality "in practice". Let's have a look at what exposure is given to female VS male speakers in the selected medias.
 
 <p align="center">
@@ -97,7 +104,7 @@ Having studied "the popularity" of feminism and its sub-topics, we now investiga
 The plot above shows a significant difference between the male and female quotes exposure in all the chosen medias. In the majority of cases, about 80% of the quotes are male which highly contrasts with an approximate 20% of women quotes. The media that quotes women the most is *buzzfeed* (a left-wing media), but the male quotes are still predominant. *The Washington Times* (a right-wing media), on the other hand, chooses to put forward mostly male speakers.
 
 {: style="text-align: justify" }
-Generally, the left-wing is characterized by an emphasis on ideas such as freedom, equality, fraternity, rights, progress, reform and internationalism while the right-wing is characterized by an emphasis on notions such as authority, hierarchy, order, duty, tradition, reaction and nationalism. Therefore, it does not seem surprising that a left-wing media has the highest percentage of women quotes whilst a right-wing media has the lowest one. Nevertheless, we would have expected more left-wing medias to quote women as much as they quote men.
+Earlier we mentioned the difference in ideas that each wing emphasises, therefore, it does not seem surprising that a left-wing media has the highest percentage of women quotes whilst a right-wing media has the lowest one. Nevertheless, we would have expected more left-wing medias to quote women as much as they quote men.
 
 What about the speakers from the feminism dataset?
 
