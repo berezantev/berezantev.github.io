@@ -41,9 +41,9 @@ Now, first, let's see if we can gain insight on the coverage of feminism over ti
 We can see that the ratio of feminism-related quotes is highest for the years 2016, 2017 and 2018. What events could have caused an increase in the reactions of speakers over feminism at these periods? 
 
 {: style="text-align: justify" }
-- In 2016, Hillary Clinton Becomes The First Female Presidential Nominee. Clinton championed women's rights as the center of her campaign and Donald Trump was repeatedly accused for the misogynistic rhetoric and machismo. Also, in one of the most important campaign speeches of the 2016 presidential election, First Lady Michelle Obama addressed the dangerous rape culture present in the country. 
+- In 2016, Hillary Clinton becomes The First Female Presidential Nominee. Clinton championed women's rights as the center of her campaign and Donald Trump was repeatedly accused for his misogynistic rhetoric and machismo. Also, in one of the most important campaign speeches of the 2016 presidential election, First Lady Michelle Obama addressed the dangerous rape culture present in the country. 
 - In 2017, 3.5-5.5 million of people worldwide attend the “women’s march” on the 21st of January in solidarity for women’s rights. It’s one of the numerous mass uprisings that mark the decade, including: in India, following the gang rape of a student; across Latin America after a succession of femicides; and in Nigeria, following the kidnapping of almost 280 school girls.
-- The #MeToo movement began at the end of 2017. It all began with survivors sharing their sexual harassement ans sexual assault stories, but escalated in a global movement that brought social and legal changes. 
+- The #MeToo movement began at the end of 2017. It all began with survivors sharing their sexual harassement and sexual assault stories, but escalated in a global movement that brought social and legal changes. 
 
 {: style="text-align: justify" }
 All these historic episodes might explain the presence of a higher number of feminism-related quotes as people were probably keen on expressing their opinion and medias quoted them as well as those who were part of these events. 
