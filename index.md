@@ -20,6 +20,8 @@ cover-img: assets/img/main_photo.jpg
  {: style="text-align: justify" } 
  In this project, we aim to shed a light on the evolution of feminism between 2015 and 2020 and its relation with the media, using the [Quotebank](https://zenodo.org/record/4277311#.YbEcOWZKj0o) dataset. In particular, we would like to analyze the media coverage that feminism is receiving, both in terms of volume and sentiment. Furthermore, we will try to understand whether feminism is also being applied in practice by each media outlet.
 
+# Dataset 
+
 {: style="text-align: justify" } 
 The dataset used for our analysis is the Quotebank dataset that consists of 178 million unique, speaker-attributed quotations that were extracted from 196 million English news articles. As the investigated topic is feminism, some related quotes are extracted by making use of key words such as "feminism", "patriarchy", "sexism", "misogyny", "misandry", "gynocentrism",  "rape culture", "slut shaming", "women’s rights", "toxic masculinity", etc.
 
@@ -30,8 +32,9 @@ Below is a representation of the words present in the 20'052 quotes obtained. As
 <img width="500" height="500" src="/assets/img/wordcloud.png">
 </p>
 
+# Coverage of feminism 
 {: style="text-align: justify" }
-Now, first, let's see if we can gain insight on the coverage of feminism over time in the medias through the Quotebank dataset. Later on, we will compare between medias from different sides of the political spectrum.
+First, let's see if we can gain insight on the coverage of feminism over time in the medias through the Quotebank dataset. Later on, we will compare between medias from different sides of the political spectrum.
 
 <p align="center">
 <img width="600" height="500" src="/assets/img/feminism_over_time.png">
@@ -48,6 +51,7 @@ We can see that the ratio of feminism-related quotes is highest for the years 20
 {: style="text-align: justify" }
 All these historic episodes might explain the presence of a higher number of feminism-related quotes as people were probably keen on expressing their opinion and medias quoted them as well as those who were part of these events. 
 
+# Medias of interest
 {: style="text-align: justify" }
 To compare between medias with different political orientations, let us first define the medias of interest. In the subsequent analysis, we will mainly focus on a subset of medias based on the [AllSides Media Bias Chart](https://www.allsides.com/media-bias/media-bias-chart). 
 
@@ -58,6 +62,8 @@ To compare between medias with different political orientations, let us first de
 | CNN           | CBS                | The Hill     | Washington Examiner  | Fox News        |
 | The New Yorker| NBC                | Newsweek     | The Washington Times | The Federalist  |
 
+# Ratio of feminism-related quotes
+
 {: style="text-align: justify" }
 Now that the medias of interest have been defined together with their political orientation, let's see how do they compare in terms of ratio of feminism-related quotes. Intuitively this should get an indication of the exposure that media outlets give to feminism.
 
@@ -67,6 +73,8 @@ Now that the medias of interest have been defined together with their political 
 
 {: style="text-align: justify" }
 While we can't find a correlation between the political orientation and the exposure given to feminism from the plots above, it is interesting to see that *The Federalist* (right-wing) has the highest number of feminism-related quotes with respect to its total number of quotes for the years 2015, 2017 and 2018. Furthermore, *The Blaze* and *Washington Examiner* are also right-wing and center-right respectively. Generally, the left-wing is characterized by an emphasis on ideas such as freedom, equality, fraternity, rights, progress, reform and internationalism while the right-wing is characterized by an emphasis on notions such as authority, hierarchy, order, duty, tradition, reaction and nationalism. Accordingly, we doubt that *The Federalist* actually has a feminist agenda. In fact, just talking about feminism doesn't mean talking about it in good terms. Also, a media outlet could be very well quoting feminist speakers, just to heavily criticize them and promote an opposite view.
+
+# Feminism sub-topics
 
 {: style="text-align: justify" }
 Let's have a look at the topics covered in these feminism related quotes.
@@ -93,25 +101,31 @@ Topics 5 and 6 are centered around the fear of people that are perceived as diff
 {: style="text-align: justify" }
 The last topic (8) revolves around the two politicians **Donald Trump** and **Hillary Clinton** and most probably the man's gender based attacks. The ex-president has been accused several times of **misogyny** and **sexism** in attacking Hillary Clinton because she is a woman. Therefore, the emergence of such a topic is not surprising.
 
+# Sentiment Analysis
+
+{: style="text-align: justify" }
 The next question we will try to address is what opinion do public figures have on feminism. Also,  what opinion do specific medias tend to put forward?
 
 
-<img style="max-width: 350px; height: auto; float:right; " src="assets/img/sampled_sentiment.png"/> 
+<img style="max-width: 300px; height: auto; float:right; " src="assets/img/sampled_sentiment.png"/> 
 <div class="row">
   <div class="column">
-    <img src="assets/img/feminism_sentiment.png" style="max-width: 350px;">
+    <img src="assets/img/feminism_sentiment.png" style="max-width: 300px;">
   </div>
 </div>
 
 {: style="text-align: justify" }
 We see that the overall sentiment over feminist quotes is mainly positive. Comparing to the overall sentiment over our sampled quotes, we notice that the percentage of positive feminist quotes is higher than the one for the sampled quotes.
 
+{: style="text-align: justify" }
+Let's select the top 10 speakers, i.e. those that have the highest number of feminism-related quotes in our database and see how these speakers tend to talk about feminism. In the plot presented below, we notice that the speakers that use negative words the most are Donald Trump, Bernie Sanders and Piers Morgan. On the other hand, Hilary Clinton, Emily Ratajkowski, Emma Watson and Lena Dunham - icons of feminism - are the ones that tend to speak the most positively about feminism and its subtopics.
 
 <img style=" height: auto; float:center; " src="assets/img/sentiment_top_speakers.png"/> 
 
+# Gender-equality in practice
 
 {: style="text-align: justify" }
-Having studied "the popularity" of feminism and its sub-topics, we now investigate gender equality "in practice". Let's have a look at what exposure is given to female VS male speakers in the selected medias.
+Having studied the sentiment over feminism and its sub-topics, we now investigate gender equality "in practice". Let's have a look at what exposure is given to female VS male speakers in the selected medias.
 
 <p align="center">
 <img src="assets/img/ratio_male_female.png">
@@ -127,4 +141,10 @@ What about the speakers from the feminism dataset?
 
 <img style="max-width: 400px; height: auto; float:left; padding: 10px; " src="assets/img/ratio_male_female_feminism.png"/> 
 
-The situation switches in the case of feminism related quotes: the predominant gender is female. We suppose that women are more concenrned about feminism and its sub-topics, so they are the ones who are vocal about the related issues. As a consequence, medias cite them more often.
+{: style="text-align: justify" }
+The situation switches in the case of feminism related quotes: the predominant gender is female. We suppose that women are more concenrned about feminism and its sub-topics, so they are the ones who are vocal about the related issues. As a consequence, medias cite them more often. Earlier we saw examples (Hilary Clinton, Emily Ratajkowski, Emma Watson) of women that express themselves on these matters. 
+
+# Conclusions
+
+{: style="text-align: justify" }
+Throughout this analysis we tried to use the Quotebank dataset in order to showcase the presence of feminsim in multiple media outlets. We saw that feminism-related quotes are most present in medias when major movements and events happen. Also, that some speaker in the right-wing medias talk a lot about feminism, but the intetion of the media in putting them forward may be negative. We discovered that many of the quotes expressed people's opinions which led us to their sentiments that were mostly positive. Finally, we saw that the selected medias like to cite men more than women, but this aspect changes when feminism-related quotes are involved.
